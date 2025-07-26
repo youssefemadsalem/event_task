@@ -19,3 +19,13 @@ The application interacts with the Fake Store API to fetch product data and supp
 
 
 The project is fully functional and designed to demonstrate frontend skills in Angular and UI responsiveness with Tailwind CSS.
+
+
+demo : event-task-nu.vercel.app
+
+teck stack :
+angular 19 
+tailwind 3
+html 
+css 
+ts 
