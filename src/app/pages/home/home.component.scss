@@ -1,0 +1,28 @@
+.product{
+border-radius: 5px;
+border:solid 2px #111827;
+overflow: hidden ;
+transition: all 1s;
+}
+.product:hover{
+border:solid 2px #3b82f6;
+
+
+
+}
+
+
+
+.product {
+  .but {
+    transform: translateY(300%) ;
+    transition: all 0.7s;
+  }
+  &:hover{
+
+.but{
+    transform: translateY(0%) ;
+}
+
+  }
+}
